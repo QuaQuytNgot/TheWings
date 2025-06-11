@@ -1554,7 +1554,7 @@ div.mc-image {
 
 .header_box {
     display: flex;
-    justify-content: space-between; /* Thay space-between thành center */
+    justify-content: center; /* Thay space-between thành center */
     align-items: center;
 }
 
